@@ -34,7 +34,7 @@ namespace TestNinja.UnitTests
         }
 
         [TestMethod]
-        public void CanBeCancelledBy_UserIsNotAdmin_RetunsTrue()
+        public void CanBeCancelledBy_UserIsNotAdmin_RetunsFalse()
         {
             // arrange
             var reservation = new Reservation();
@@ -47,7 +47,7 @@ namespace TestNinja.UnitTests
         }
 
         [TestMethod]
-        public void CanBeCancelledBy_UserIsNotMadeByUser_RetunsTrue()
+        public void CanBeCancelledBy_UserIsNotMadeByUser_RetunsFalse()
         {
             // arrange
             var reservation = new Reservation { MadeBy = new User { IsAdmin = true } };

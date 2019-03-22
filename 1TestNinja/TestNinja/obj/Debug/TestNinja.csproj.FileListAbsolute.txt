@@ -20,6 +20,8 @@ D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
 D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\bin\Debug\EntityFramework.xml
 D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
-D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
 D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\obj\Debug\TestNinja.dll
 D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+D:\Projects_Mine\Uni Testing\1TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
